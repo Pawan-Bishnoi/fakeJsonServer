@@ -1,5 +1,5 @@
 {
-  "chats": [
+  "chats": [{
     "Pawan Kumar": [
     { "seq": 1, "msg": "Hi"},
     { "seq": 2, "msg": "Hello!", "reply": true},
@@ -7,5 +7,5 @@
     { "seq": 4, "msg": "Yes, in fact it is working today with a dummy JSON", "reply": true},
     { "seq": 5, "msg": "Can't wait to test it with a real server", "reply": true}
   ]
-  ]
+  }]
 }
